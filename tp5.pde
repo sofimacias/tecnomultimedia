@@ -1,3 +1,9 @@
+//TP#5 — Avanzando con POO
+//Macias, Sofia
+//Legajo 81747/5
+//Comision 3
+//Link: 
+
 Juego juego; //llamar a la clase con su constructor
 void setup() {
   size(800, 600);
